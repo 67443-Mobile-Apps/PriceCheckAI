@@ -1,0 +1,47 @@
+[
+  {
+    "barcode": "037000127913",
+    "item": "Charmin Soft 12 Mega Rolls",
+    "prices": [
+      { "location": "Target",      "price": 14.79, "daysAgo": 3 },
+      { "location": "Giant Eagle", "price": 14.95, "daysAgo": 5 }
+    ]
+  },
+  {
+    "barcode": "037000127920",
+    "item": "Charmin Soft 18 Mega Rolls",
+    "prices": [
+      { "location": "Target",      "price": 19.99, "daysAgo": 3 },
+      { "location": "Giant Eagle", "price": 21.99, "daysAgo": 5 }
+    ]
+  },
+  {
+    "barcode": "037000425618",
+    "item": "Crest Toothpaste 2pk",
+    "prices": [
+      { "location": "Target", "price": 3.59, "daysAgo": 7 }
+    ]
+  },
+  {
+    "barcode": "035000762306",
+    "item": "Colgate Toothpaste 3pk",
+    "prices": [
+      { "location": "Target", "price": 3.99, "daysAgo": 7 }
+    ]
+  },
+  {
+    "barcode": "034000002405",
+    "item": "York Peppermint Patties",
+    "prices": [
+      { "location": "Target",      "price": 3.59, "daysAgo": 2 },
+      { "location": "Giant Eagle", "price": 3.49, "daysAgo": 6 }
+    ]
+  },
+  {
+    "barcode": "034000111206",
+    "item": "Hershey Miniatures 17.6oz",
+    "prices": [
+      { "location": "Giant Eagle", "price": 5.89, "daysAgo": 6 }
+    ]
+  }
+]
